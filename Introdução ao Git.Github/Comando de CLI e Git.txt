@@ -1,9 +1,7 @@
 - [Link para dowload do Software Git] (https://git-scm.com/downloads)
-
   Git Bash é um terminal extendido para otimizar o uso do Git
 
   ​
 
 - Comando de CLI: CD, DIR, MKDIR, DEL/RMDIR
-
 - Comandos de GIT: GIT INIT, GIT ADD, GIT COMMIT, -a, GIT CONFIG --LIST, GIT CONFIG --GLOBAL --UNSET USER.NAME, GIT REMOTE ADD ORIGIN, GIT REMOTE -V, GIT CLONE, GIT PUSH ORIGIN MASTER
